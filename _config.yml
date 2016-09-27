@@ -1,6 +1,5 @@
 baseurl: /test-prose-io
 permalink: pretty
-markdown: rdiscount
 prose:
   rooturl: '_posts'
   siteurl: 'https://rwbby-vostfr.github.io/test-prose-io/'
