@@ -1,11 +1,10 @@
 ---
 layout: blog
 category: blog
-published: false
+published: true
 title: 'Seconde news :)'
 tags:
   - equipe
-splash: ''
 ---
 ## A New Post
 
