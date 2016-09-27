@@ -2,8 +2,8 @@ baseurl: /test-prose-io
 permalink: pretty
 prose:
   rooturl: '_posts'
-  siteurl: 'https://rwbby-vostfr.github.io/test-prose-io/'
-  relativeLinks: 'https://rwbby-vostfr.github.io/test-prose-io/links.jsonp'
+  siteurl: 'https://rwby-vostfr.github.io/test-prose-io/'
+  relativeLinks: 'https://rwby-vostfr.github.io/test-prose-io/links.jsonp'
   media: 'media'
   metadata:
     _posts:
